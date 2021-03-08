@@ -1,0 +1,504 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为网页资源信息",
+        " *   success字段为下载保存成功的资源;failures字段则为下载保存失败的资源URL",
+        " *   success字段为标准树结构，每一层资源父子关系、URL和保存路径清晰明了",
+        " *   本文件仅为记录检测到的网页资源以便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "success": [
+        {
+            "url": "https://www.beachcamera.com/shop/",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "https://www.beachcamera.com/Assets/Images/logo-white-new.png",
+                    "path": "images/logo-white-new.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Images/phone-icon-blue.png",
+                    "path": "images/phone-icon-blue.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Images/chat-icon.png",
+                    "path": "images/chat-icon.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Images/star-icon.png",
+                    "path": "images/star-icon.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Images/user-icon.png",
+                    "path": "images/user-icon.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Images/cart-icon-new.png",
+                    "path": "images/cart-icon-new.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Images/search-icon.png",
+                    "path": "images/search-icon.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Manufacturers/brand-canon.png",
+                    "path": "images/brand-canon.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Manufacturers/brand-decogear.png",
+                    "path": "images/brand-decogear.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Manufacturers/brand-dji.png",
+                    "path": "images/brand-dji.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Manufacturers/brand-garmin.png",
+                    "path": "images/brand-garmin.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Manufacturers/brand-hewlett%20packard.png",
+                    "path": "images/brand-hewlett packard.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Manufacturers/brand-lg.png",
+                    "path": "images/brand-lg.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Manufacturers/brand-nikon.png",
+                    "path": "images/brand-nikon.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Manufacturers/brand-samsonite.png",
+                    "path": "images/brand-samsonite.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Manufacturers/brand-samsung.png",
+                    "path": "images/brand-samsung.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Manufacturers/brand-sony.png",
+                    "path": "images/brand-sony.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Manufacturers/brand-tamron.png",
+                    "path": "images/brand-tamron.png"
+                },
+                {
+                    "url": "https://www.facebook.com/tr?id=2787415721530275&ev=PageView&noscript=1",
+                    "path": "images/tr.gif"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=543192",
+                    "path": "images/product-image.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=543179",
+                    "path": "images/product-image_1.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=543180",
+                    "path": "images/product-image_2.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=543181",
+                    "path": "images/product-image_3.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=543182",
+                    "path": "images/product-image_4.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=543183",
+                    "path": "images/product-image_5.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=543184",
+                    "path": "images/product-image_6.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=543185",
+                    "path": "images/product-image_7.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=543186",
+                    "path": "images/product-image_8.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=543187",
+                    "path": "images/product-image_10.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=543188",
+                    "path": "images/product-image_9.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=543189",
+                    "path": "images/product-image_12.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=543190",
+                    "path": "images/product-image_11.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=543191",
+                    "path": "images/product-image_13.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=543193",
+                    "path": "images/product-image_14.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Images/free-shipping-icon.png",
+                    "path": "images/free-shipping-icon.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Images/squaretrade-logo.png",
+                    "path": "images/squaretrade-logo.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=530191",
+                    "path": "images/product-image_15.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Images/why_do_i_need_this.gif",
+                    "path": "images/why_do_i_need_this.gif"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=444532",
+                    "path": "images/product-image_16.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=375482",
+                    "path": "images/product-image_17.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=555220",
+                    "path": "images/product-image_19.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=408775",
+                    "path": "images/product-image_18.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=500&picId=424769",
+                    "path": "images/product-image_20.jpeg"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Images/social-fb-60.png",
+                    "path": "images/social-fb-60.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Images/social-tw-60.png",
+                    "path": "images/social-tw-60.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Images/social-pn-60.png",
+                    "path": "images/social-pn-60.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Images/social-in-60.png",
+                    "path": "images/social-in-60.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Images/logo-color.png",
+                    "path": "images/logo-color.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/Assets/Images/seal-bbb.gif",
+                    "path": "images/seal-bbb.gif"
+                },
+                {
+                    "url": "https://assets.pinterest.com/images/pidgets/pin_it_button.png",
+                    "path": "images/pin_it_button.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/js/jquery-3.3.1.min.js",
+                    "path": "js/jquery-3.3.1.min.js"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/js/jquery/jquery.cookie.js",
+                    "path": "js/jquery.cookie.js"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/js/owl-carousel2/owl.carousel.min.js",
+                    "path": "js/owl.carousel.min.js"
+                },
+                {
+                    "url": "https://ui.powerreviews.com/stable/4.0/ui.js",
+                    "path": "js/ui.js"
+                },
+                {
+                    "url": "https://www.beachcamera.com/dist/main.js?v=5.37",
+                    "path": "js/main.js"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/js/functions.js?v=102",
+                    "path": "js/functions.js"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/js/checkFlash.js",
+                    "path": "js/checkFlash.js"
+                },
+                {
+                    "url": "https://static.zdassets.com/ekr/snippet.js?key=8a6426d4-a441-49ab-b6e7-6d7d4ff57428",
+                    "path": "js/snippet.js"
+                },
+                {
+                    "url": "https://assets.pinterest.com/js/pinit.js",
+                    "path": "js/pinit.js"
+                },
+                {
+                    "url": "https://www.paypal.com/sdk/js?client-id=AcS5OBAW9fz7YtRJbHMTH-exrX4Adm1jhvmbAV3QZYSActTcKKBaNVrviloA&components=messages",
+                    "path": "js/js.js"
+                },
+                {
+                    "url": "https://static.criteo.net/js/ld/ld.js",
+                    "path": "js/ld.js"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/js/omniture_s_code.js",
+                    "path": "js/omniture_s_code.js"
+                },
+                {
+                    "url": "https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=PCptKL",
+                    "path": "js/klaviyo.js"
+                },
+                {
+                    "url": "https://media.flixfacts.com/js/loader.js",
+                    "path": "js/loader.js"
+                },
+                {
+                    "url": "https://scontent.webcollage.net/api/v2/product-content",
+                    "path": "js/product-content.js"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/js/owl-carousel2/owl.carousel.min.css",
+                    "path": "css/owl.carousel.min.css",
+                    "children": [
+                        {
+                            "url": "https://www.beachcamera.com/assets/js/owl-carousel2/owl.video.play.png",
+                            "path": "images/owl.video.play.png"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/js/owl-carousel2/owl.theme.default.min.css",
+                    "path": "css/owl.theme.default.min.css"
+                },
+                {
+                    "url": "https://www.beachcamera.com/dist/main.css?v=5.37",
+                    "path": "css/main.css",
+                    "children": [
+                        {
+                            "url": "https://www.beachcamera.com/dist/fonts/Montserrat-Regular.ttf",
+                            "path": "fonts/Montserrat-Regular.ttf"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/fonts/Montserrat-SemiBold.ttf",
+                            "path": "fonts/Montserrat-SemiBold.ttf"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/fonts/Montserrat-Light.ttf",
+                            "path": "fonts/Montserrat-Light.ttf"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/fonts/Montserrat-Bold.ttf",
+                            "path": "fonts/Montserrat-Bold.ttf"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/fonts/Roboto-Regular.ttf",
+                            "path": "fonts/Roboto-Regular.ttf"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/fonts/Roboto-Italic.ttf",
+                            "path": "fonts/Roboto-Italic.ttf"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/fonts/Roboto-Black.ttf",
+                            "path": "fonts/Roboto-Black.ttf"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/fddd147dada5626aeca06a6e3d5c0730.png",
+                            "path": "images/fddd147dada5626aeca06a6e3d5c0730.png"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/2183467b566bbd802a7c9f596ea488b0.png",
+                            "path": "images/2183467b566bbd802a7c9f596ea488b0.png"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/18be5854b718b6f280bd67a485a2fe10.png",
+                            "path": "images/18be5854b718b6f280bd67a485a2fe10.png"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/dc247747d113b269aefe8ce3ba0e874f.png",
+                            "path": "images/dc247747d113b269aefe8ce3ba0e874f.png"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/d764672e906d75c7fcff39699f5a4b4a.png",
+                            "path": "images/d764672e906d75c7fcff39699f5a4b4a.png"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/2185bb1d4e1d02461bcf63e2b7604eac.jpg",
+                            "path": "images/2185bb1d4e1d02461bcf63e2b7604eac.jpg"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/4d32c95d30751dd17b1ad884e41fc9ef.jpg",
+                            "path": "images/4d32c95d30751dd17b1ad884e41fc9ef.jpg"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/5a4ef99729ffcf24f54ab6a646eb9a29.jpg",
+                            "path": "images/5a4ef99729ffcf24f54ab6a646eb9a29.jpg"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/730dbddee6a29a76e369a2ea0e3ace79.jpg",
+                            "path": "images/730dbddee6a29a76e369a2ea0e3ace79.jpg"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/9880998ec30562c4beafd3d47739724b.jpg",
+                            "path": "images/9880998ec30562c4beafd3d47739724b.jpg"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/cfef1525ccf8daa1ca4e00a087a7d0cf.jpg",
+                            "path": "images/cfef1525ccf8daa1ca4e00a087a7d0cf.jpg"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/4b6063a13b55824985b2b7fdf4f44004.jpg",
+                            "path": "images/4b6063a13b55824985b2b7fdf4f44004.jpg"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/bcea6c5cf285b26e58d548c1b325c1e9.jpg",
+                            "path": "images/bcea6c5cf285b26e58d548c1b325c1e9.jpg"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/92a9472ad88cde6531d9b29107423270.png",
+                            "path": "images/92a9472ad88cde6531d9b29107423270.png"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/a1a454f053f79b74e73d6e956429ff03.png",
+                            "path": "images/a1a454f053f79b74e73d6e956429ff03.png"
+                        },
+                        {
+                            "url": "https://www.beachcamera.com/dist/0bc553aeb017b789a808df389204627b.png",
+                            "path": "images/0bc553aeb017b789a808df389204627b.png"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/images/apple-icon-57x57.png",
+                    "path": "images/apple-icon-57x57.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/images/apple-icon-60x60.png",
+                    "path": "images/apple-icon-60x60.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/images/apple-icon-72x72.png",
+                    "path": "images/apple-icon-72x72.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/images/apple-icon-76x76.png",
+                    "path": "images/apple-icon-76x76.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/images/apple-icon-114x114.png",
+                    "path": "images/apple-icon-114x114.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/images/apple-icon-120x120.png",
+                    "path": "images/apple-icon-120x120.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/images/apple-icon-144x144.png",
+                    "path": "images/apple-icon-144x144.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/images/apple-icon-152x152.png",
+                    "path": "images/apple-icon-152x152.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/images/apple-icon-180x180.png",
+                    "path": "images/apple-icon-180x180.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/images/favicon-16x16.png",
+                    "path": "images/favicon-16x16.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/images/favicon-32x32.png",
+                    "path": "images/favicon-32x32.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/images/favicon-96x96.png",
+                    "path": "images/favicon-96x96.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/assets/images/android-icon-192x192.png",
+                    "path": "images/android-icon-192x192.png"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=100&picId=543192",
+                    "path": "product-image.aspx_1.html"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=100&picId=543179",
+                    "path": "product-image.aspx.html"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=100&picId=543180",
+                    "path": "product-image.aspx_2.html"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=100&picId=543181",
+                    "path": "product-image.aspx_4.html"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=100&picId=543182",
+                    "path": "product-image.aspx_3.html"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=100&picId=543183",
+                    "path": "product-image.aspx_5.html"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=100&picId=543184",
+                    "path": "product-image.aspx_6.html"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=100&picId=543185",
+                    "path": "product-image.aspx_7.html"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=100&picId=543186",
+                    "path": "product-image.aspx_8.html"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=100&picId=543187",
+                    "path": "product-image.aspx_9.html"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=100&picId=543188",
+                    "path": "product-image.aspx_10.html"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=100&picId=543189",
+                    "path": "product-image.aspx_11.html"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=100&picId=543190",
+                    "path": "product-image.aspx_12.html"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=100&picId=543191",
+                    "path": "product-image.aspx_13.html"
+                },
+                {
+                    "url": "https://www.beachcamera.com/shop/product-image.aspx?size=100&picId=543193",
+                    "path": "product-image.aspx_14.html"
+                }
+            ]
+        }
+    ],
+    "failures": []
+}

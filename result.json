@@ -1,0 +1,75 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为请求参数，包括不限于网址、请求头、响应头、COOKIE、Referer、UserAgent",
+        " *   本文件仅为记录详细请求参数便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "directory": "www-beachcamera-com-fog2ste6",
+    "options": {
+        "url": "https://www.beachcamera.com/shop/product/IROBORI77550/iRobot-Roomba-i7Robot-Vacuum-with-Automatic-Dirt-Disposal-Wi-Fi-Connected-?gclid=Cj0KCQiAs5eCBhCBARIsAEhk4r4_p8i4R5-5fZN4ziuCIwv5vu4FfsJhBHX8zvLEoW9Lxy695FvEhrkaAiPiEALw_wcB",
+        "index": "index.html",
+        "domain": "www.beachcamera.com",
+        "origin": "https://www.beachcamera.com",
+        "ipaddress": "65.8.71.110",
+        "originURL": "https://www.beachcamera.com/shop/product/IROBORI77550/iRobot-Roomba-i7Robot-Vacuum-with-Automatic-Dirt-Disposal-Wi-Fi-Connected-?gclid=Cj0KCQiAs5eCBhCBARIsAEhk4r4_p8i4R5-5fZN4ziuCIwv5vu4FfsJhBHX8zvLEoW9Lxy695FvEhrkaAiPiEALw_wcB",
+        "filenameGenerator": "byType",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "statusCode": 200,
+            "headers": {
+                "content-type": "text/html; charset=utf-8",
+                "content-length": "48082",
+                "connection": "close",
+                "date": "Mon, 08 Mar 2021 06:44:09 GMT",
+                "server": "server",
+                "x-request-id": "YEXa1gpkCgoAAAwqYhAAAC5r",
+                "x-backend-node": "beachcamera-prod",
+                "x-xss-protection": "1; mode=block",
+                "x-frame-options": "SAMEORIGIN",
+                "x-cache-backend": "MISS",
+                "x-cache-backend-hits": "0",
+                "x-cache-backend-node": "varnish62-qzrhk",
+                "backend-age": "0",
+                "content-encoding": "gzip",
+                "x-cache-node": "ip-10-100-10-10.ec2.internal",
+                "cache-control": "max-age=300",
+                "accept-ranges": "bytes",
+                "strict-transport-security": "max-age=31536000; includeSubDomains",
+                "content-security-policy": "upgrade-insecure-requests",
+                "x-frontend-node": "ip-10-100-10-10.ec2.internal",
+                "access-control-allow-origin": "*",
+                "vary": "Accept-Encoding",
+                "x-cache": "Hit from cloudfront",
+                "via": "1.1 9b34a4c8b07eed6c2ff20b5adbbfa7c5.cloudfront.net (CloudFront)",
+                "x-amz-cf-pop": "YVR50-C1",
+                "x-amz-cf-id": "E-Z3zKySUuFgaDBk-2qRjhL15CI-Z4ZZ4cK7wWlSwPzasEPNWw-osQ==",
+                "age": "38"
+            }
+        }
+    },
+    "user": {
+        "isWhite": false
+    },
+    "formatter": [
+        "css",
+        "html",
+        "javascript",
+        "saveOriginal"
+    ],
+    "time": {
+        "start": 1615190780014,
+        "end": 1615190800633,
+        "spend": 20.619
+    }
+}
